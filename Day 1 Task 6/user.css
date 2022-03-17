@@ -1,0 +1,165 @@
+body{
+    background: lightgrey;
+}
+.main{
+    height: 1200px;
+    width: 600px;
+    margin: 0 auto;
+}
+.image{
+    height: 250px;
+    width: 600px;
+}
+.text{
+    height: 130px;
+    width: 600px;
+    background: white;
+
+}
+.text p,h2{
+    margin: 0;
+    padding: 0;
+    font-size: smaller;
+}
+.text button{
+    color: white;
+    border: none;
+    border-radius: 3px;
+    padding: 6px;
+}
+.btn1{
+    background: blue;
+}
+.btn2{
+    background: green;
+}
+.card{
+    height: 850px;
+    width: 600px;
+}
+.card1{
+    height: 850px;
+    width: 300px;
+    background: silver;
+    float: left;
+}
+.card2{
+    height: 850px;
+    width: 300px;
+    background: silver;
+    float: right;
+}
+.story{
+    height: 230px;
+    width: 280px;
+    background: white;
+    border-top: 2px solid purple;
+    margin-top: 20px;
+    margin-left: 7px;
+}
+.plan{
+    height: 230px;
+    width: 280px;
+    background: white;
+    border-top: 2px solid blue;
+    margin-top: 20px;
+    margin-left: 7px;
+}
+.tasks{
+    height: 280px;
+    width: 280px;
+    background: white;
+    border-top: 2px solid darkmagenta;
+    margin-top: 20px;
+    margin-left: 7px;
+}
+.info{
+    height: 280px;
+    width: 280px;
+    background: white;
+    border-top: 2px solid green;
+    margin-top: 20px;
+    margin-left: 7px;
+}
+.social{
+    height: 210px;
+    width: 280px;
+    background: white;
+    border-top: 2px solid red;
+    margin-top: 20px;
+    margin-left: 7px;
+}
+.sale{
+    height: 210px;
+    width: 280px;
+    background: white;
+    border-top: 2px solid;
+    border-top: 2px solid blue;
+    margin-top: 20px;
+    margin-left: 7px;
+}
+.story p{
+    padding: 0;
+    margin: 0;
+    margin-left: 7px;
+    padding: 3px;
+    font-size:small;
+    text-align: justify;
+}
+.a{
+    border-bottom: 1px solid black;
+}
+.b{
+    margin-top: 5px;
+}
+.b button{
+    background: purple;
+    color: white;
+    border: none;
+    margin-left: 10px;
+    padding: 5px;
+    font-size:small;
+}
+.plan p,li{
+    padding: 0;
+    margin: 0;
+    margin-left: 7px;
+    padding: 3px;
+    font-size:small;
+    text-align: justify;
+}
+.tasks p{
+    padding: 0;
+    margin: 0;
+    margin-left: 7px;
+    padding: 3px;
+    font-size:small;
+    text-align: justify;
+}
+input{
+    width: 200px;
+}
+.info p{
+    padding: 0;
+    margin: 0;
+    margin-left: 7px;
+    padding: 3px;
+    font-size:small;
+    text-align: justify;
+}
+.social p{
+    padding: 0;
+    margin: 0;
+    margin-left: 7px;
+    padding: 3px;
+    font-size:small;
+    text-align: justify;
+}
+.sale p{
+    padding: 0;
+    margin: 0;
+    margin-left: 7px;
+    padding: 3px;
+    font-size:small;
+    text-align: justify;
+}

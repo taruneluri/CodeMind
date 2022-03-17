@@ -1,0 +1,124 @@
+body{
+    background: grey;
+}
+.main{
+    height: 700px;
+    width: 900px;
+    background: white;
+    margin: 0 auto;
+}
+.header{
+    height: 55px;
+    width: 100%;
+    border-bottom: 2px solid black;
+}
+.he1{
+    height: 100%;
+    width: 25%;
+    background: white;
+    float: left;
+}
+.he2{
+    height: 100%;
+    width: 55%;
+    background: white;
+    float: left;
+}
+.he3{
+    height: 100%;
+    width: 20%;
+    background: white;
+    float: right;
+
+}
+.he1 p{
+    padding-left: 50px;
+    font-size: large;
+}
+.menu div{
+    margin-top: 10px;
+    float: left;
+}
+button{
+    border: none;
+    background: white;
+    padding: 10px;
+}
+button:hover{
+    text-decoration: underline;
+
+}
+.he3 p{
+    padding-left: 30px;
+    padding-top: 7px;
+    font-size: small;
+}
+.pic{
+    height: 300px;
+    width: 100%;
+
+}
+img{
+    height: 100%;
+    width: 100%;
+}
+.text{
+    height: 300px;
+    width: 100%;
+
+}
+.a{
+    height: 100%;
+    width: 10%;
+    float: left;
+
+}
+.b{
+    height: 100%;
+    width: 20%;
+    float: left;
+
+}
+.c{
+    height: 100%;
+    width: 20%;
+    float: left;
+
+}
+.d{
+    height: 100%;
+    width: 20%;
+    float: left;
+
+}
+.e{
+    height: 100%;
+    width: 20%;
+    float: left;
+
+}
+.f{
+    height: 100%;
+    width: 10%;
+    float: right;
+
+
+}
+.b1{
+    padding-top: 30px;
+    height: 20%;
+    width: 100%;
+    text-align: center;
+}
+.b1 img{
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+
+}
+.b2{
+    padding-top: 30px;
+    height: 70%;
+    width: 100%;
+    text-align: center;
+}
