@@ -1,0 +1,70 @@
+.main{
+    height: 900px;
+    width: 900px;
+    border: 1px solid black;
+}
+.a{
+    height: 100px;
+    width: 100%;
+}
+.aa{
+    height: inherit;
+    float: left;
+    width: 40%;
+    background: pink;
+}
+.ab{
+    height: inherit;
+    float: right;
+    width: 60%;
+    background: green;
+}
+.b{
+    height: 100px;
+    width: 100%;
+    background: red;
+}
+.c{
+    height: 50px;
+    width: auto;
+    background: greenyellow;
+}
+.d{
+    height: 500px;
+    width: 100%;
+}
+.da{
+    height: 100%;
+    width: 30%;
+    float: left;
+    background: blue;
+}
+.db{
+    height: 100%;
+    width: 40%;
+    float: left;
+    background: violet;
+}
+.dba{
+    height: 33%;
+    width: 100%;
+    background: orange;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+
+}
+.dbb{
+    height: 33%;
+    width: 100%;
+    background: black;
+}
+.dbba,.dbbb{
+    height: 100%;
+    width: 50%;
+    float: left;
+    background: grey;
+}
+#a{
+    margin: 0 auto;
+}
