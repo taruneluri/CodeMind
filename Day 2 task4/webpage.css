@@ -1,0 +1,107 @@
+body{
+    background: lightblue;
+}
+.main{
+    height: 800px;
+    width: 600px;
+    background: white;
+    margin: 0 auto;
+}
+.header{
+    height: 100px;
+    width: 600px;
+    background: white;
+}
+.h1{
+    float: left;
+}
+.h2{
+    float: right;
+    margin-top: 20px;
+    margin-right: 10px;
+}
+.h1 h4{
+    padding-left: 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.h2 button{
+    border: none;
+    background: none;
+    font-size: x-small;
+    padding-right: 15px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.text{
+    height: 200px;
+    width: 600px;
+    background: white;
+    text-align: justify;
+}
+.text h2{
+    padding: 0;
+    margin: 0;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+    padding-top: 30px;
+    padding-left: 100px;
+}
+.text p{
+    padding: 0px;
+    font-size: xx-small;
+    padding-left: 100px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.i{
+    height: 400px;
+    width: 600px;
+    background: white;
+}
+.i1{
+    height: 200px;
+    width: 600px;
+    background: white;
+}
+.i11{
+    height: 200px;
+    width: 100px;
+    background: white;
+    float: left;
+}
+.i12{
+    height: 200px;
+    width: 200px;
+    background: white;
+    float: left;
+}
+.i13{
+    height: 200px;
+    width: 300px;
+    background: white;
+    float: right;
+}
+.i11 img{
+    height: 40px;
+    width: 40px;
+    border-radius: 30px;
+    margin-left: 30px;
+    margin-top: 10px;
+}
+.i12 h5,h6,p{
+    padding: 0;
+    margin: 0;
+}
+.i12 p{
+    font-size: xx-small;
+    width: 150px;
+    padding-top: 20px;
+}
+.i12 h5{
+    padding-top: 20px;
+}
+.i12 h6{
+    padding-top: 20px;
+}
+.i13 img{
+    height: 180px;
+    width: 220px;
+}

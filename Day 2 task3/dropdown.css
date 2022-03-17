@@ -1,0 +1,51 @@
+body{
+    background: lightblue;
+}
+.header{
+    height: 70px;
+    width: 600px;
+    background: grey;
+    margin: 0 auto;
+}
+.a , .aa{
+    float: left;
+    margin-top: 20px;
+    margin-left: 7px;
+}
+.items{
+    display: none;
+    position: absolute;
+}
+.items2{
+    display: none;
+    position: absolute;
+    left: 160px;
+    top:0px;
+}
+.aa{
+    position: relative;
+}
+.aa:hover .items{
+    display: block;
+}
+.ab{
+    position: relative;
+}
+.ab:hover .items2{
+    display: block;
+}
+.btn{
+    background: grey;
+    border: none;
+    font-size: large;
+    color: white;
+}
+.btn2{
+    border:none;
+    width: 160px;
+    padding: 10px;
+}
+.btn2:hover{
+    background: rgb(46, 158, 196);
+    color: white;
+}

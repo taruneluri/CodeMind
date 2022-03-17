@@ -1,0 +1,250 @@
+body{
+    background: lightcyan;
+}
+h2,h4,h3 , p{
+    padding: 0;
+    margin: 0;
+}
+.main{
+    height: 900px;
+    width: 850px;
+    background: white;
+    margin: 0 auto;
+}
+.header{
+    height: 120px;
+    width: 850px;
+    background: white;
+    margin: 0 auto;
+    border-bottom: 2px solid goldenrod;
+}
+.h1{
+    height: 70px;
+    width: 700px;
+    margin: 0 auto;
+}
+.h2{
+    height: 50px;
+    width: 700px;
+    margin: 0 auto;
+}
+.h11{
+    height: 70px;
+    width:400px;
+    float: left;
+
+}
+.h12{
+    height: 70px;
+    width: 300px;
+    float: right;
+}
+.h11 p{
+    font-size: xx-small;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding-left: 10px;
+    padding-top: 3px;
+    
+}
+.h11 h2{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+.h11 span{
+    color: gold;
+}
+.h12 p{
+    font-size: xx-small;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: right;
+}
+.h12 h4{
+    text-align: right;
+    padding-top: 20px;
+    padding-right: 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.h2 button{
+    border: none;
+    background: none;
+    font-size: small;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 10px;
+    margin-top: 15px;
+}
+.h2 button:hover{
+    background: goldenrod;
+}
+.image{
+    height: 380px;
+    width: 850px;
+    background: grey;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.i{
+    height: 300px;
+    width: 700px;
+    background: white;
+    margin: 0 auto;  
+    border: 5px solid white;  
+}
+.i1{
+    height: 300px;
+    width: 450px;
+    background: violet;
+    float: left;
+}
+.i2{
+    height: 300px;
+    width: 250px;
+    background: goldenrod;
+    float: right;
+}
+.i1 img{
+    width: 100%;
+    height: 100%;
+
+}
+.i2 h2{
+    color: white;
+    padding: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.i2 p{
+    font-size: x-small;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top: 20px;
+    margin-left: 30px;
+}
+#a{
+    background: white;
+    border: none;
+    width: 180px;
+    margin-left: 30px;
+
+}
+#b{
+    background: white;
+    border: none;
+    width: 180px;
+    margin-left: 30px;
+    height: 50px;
+}
+.i2 .btn{
+    border: none;
+    font-size: x-small;
+    color: white;
+    background: black;
+    padding: 2px;
+    width: 50px;
+    margin-left: 100px;
+}
+.i2 .btn:hover{
+    background: white;
+    color: black;
+}
+.space{
+    height: 50px;
+    width: 850px;
+    background: white;
+}
+.text{
+    height: 200px;
+    width: 700px;
+    margin: 0 auto;
+    background: white;
+}
+.t1{
+    height: 200px;
+    width: 200px;
+    float: left;
+    border: 1px solid goldenrod;
+
+}
+.t2{
+    height: 200px;
+    width: 47px;
+    float: left;
+
+}
+.t1 h3{
+    padding: 5px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.t1 span{
+    color: goldenrod;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.t1 p{
+    font-size: xx-small;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-left: 5px;
+}
+.t1 .btn{
+    font-size: small;
+    border: none;
+    background: none;
+    text-decoration: underline;
+    margin-left: 15px;
+    margin-top: 15px;
+}
+.footer{
+    height: 100px;
+    width: 850px;
+    background: grey;
+}
+.f{
+    height: 100px;
+    width: 700px;
+    margin: 0 auto;
+}
+.f1{
+    height: 100px;
+    width: 400px;
+    float: left;
+
+}
+.f2{
+    height: 100px;
+    width: 300px;
+    float: right;
+    text-align: right;
+}
+.f1 p{
+    font-size: xx-small;
+    color: white;
+    margin-top: 40px;
+}
+.f1 a{
+    color: white;
+    font-size: xx-small;
+}
+.f2 p{
+    font-size: xx-small;
+    color: white;
+    margin-top: 40px;
+    
+
+}
+.f2 input{
+    width: 120px;
+    border: none;
+    border-radius: 3px;
+}
+.f2 button{
+    font-size: xx-small;
+    background: black;
+    color: white;
+    border: none;
+    padding: 3px;
+    margin-left: 5px;
+}
+.f2 button:hover{
+    background: white;
+    color: black;
+}
